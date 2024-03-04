@@ -1,0 +1,22 @@
+{
+  "name": "qr-code-rsvp-generator",
+  "version": "1.0.0",
+  "description": "A simple QR Code RSVP Generator written in JavaScript.",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TLanderon/qr-code-rsvp-generator.git"
+  },
+  "keywords": [
+    "qrcode",
+    "generator",
+    "rsvp",
+    "javascript"
+  ],
+  "author": "TLanderon",
+  "license": "MIT",
+  "dependencies": {
+    "my-qrcode-generator": "^1.0.0",
+    "crypto": "^1.0.1"
+  }
+}
